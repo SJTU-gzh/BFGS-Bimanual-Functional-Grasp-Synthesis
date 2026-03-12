@@ -5,4 +5,5 @@ Official repository for "Bimanual Functional Grasp Synthesis with Human Contact 
 
 ## To do:
 1. upload the synthesized data
-2. program for visualization
+2. scripts for visualization
+3. update the readme file
