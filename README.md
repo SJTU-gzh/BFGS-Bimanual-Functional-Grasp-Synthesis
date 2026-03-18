@@ -3,6 +3,9 @@ Official repository for "Bimanual Functional Grasp Synthesis with Human Contact 
 
 ![framework](framework.png)
 
+## Data preparation
+1. download the object contact meshes from https://huggingface.co/datasets/SJTU-gzh/BFGS-bottle
+2. replace the `data/obj_contactMesh` folder
+
 ## To do:
-1. upload the object contact mesh
-2. update the readme file
+1. update the readme file
